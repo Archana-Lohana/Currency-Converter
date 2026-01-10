@@ -1,4 +1,6 @@
 # Currency-Converter
+Live Demo: [View the Dashboard](https://archana-lohana.github.io/Currency-Converter/)
+
 A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript.
 It allows users to convert currencies using real-time exchange rates and displays country flags dynamically.
 
